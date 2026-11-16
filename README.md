@@ -1,4 +1,4 @@
-# Car Racing Game (PS No. 46)
+# 46_car racing game_RU_26-00599_1C
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Pygame](https://img.shields.io/badge/Library-Pygame%20%2F%20Pygame--ce-green.svg)](https://pyga.me/)
