@@ -1,0 +1,4 @@
+# Pygame library for 2D Car Racing Game
+# pygame-ce (Community Edition) provides 100% API compatibility with 'import pygame'
+# and includes official pre-built binaries across Python 3.10, 3.11, 3.12, 3.13, and 3.14.
+pygame-ce>=2.5.0
